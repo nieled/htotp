@@ -3,3 +3,18 @@ dist-newstyle/
 /.ghc.environment.*
 /cabal.project.local
 
+# Tools
+
+## Indexing
+/tags
+
+## Nix
+/result
+/result-*
+
+## Idea
+/idea/
+
+# macOS
+.DS_Store
+
